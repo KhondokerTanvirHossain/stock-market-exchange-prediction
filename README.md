@@ -1,6 +1,6 @@
 # Stock Market Exchange Prediction
 This is a LSTM based RNN model to analysis time series data that can predict price of NYSE's 50 stocks for next 10 days. 
-Also automatically crwal WALL STREET JOURNAL for the comments and reviews  releated to the stock of the company and do a lexical analyzer based sentiment analysis. 
+Also automatically crawl WALL STREET JOURNAL for the comments and reviews  releated to the stock of the company and do a lexical analyzer based sentiment analysis. 
 
 ## Features
 * Predict price of NYSE's stocks 
